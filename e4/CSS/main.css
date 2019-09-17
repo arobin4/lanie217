@@ -1,20 +1,21 @@
 body {
     background-color: pink;
     text-align: left;
+  }
 h1 {
     color: rgb(70,130,180);
   }
-  #container {
+#container {
     width:50%;
     margin: 100px auto;
   }
-    p {
+  p {
       color: blue;
     }
-    .intro{
+.intro{
       color: green;
     }
-  img {
+img {
     max-width: 100%;
 
   }

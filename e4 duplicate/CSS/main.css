@@ -1,9 +1,14 @@
 body {
     background-color: pink;
     text-align: left;
-    div{
-      width: 100px
-      height: 100px
+.title1 {
+      width: 100px;
+      height: 100px;
+      background-color: dodgerblue;
+    }
+.title2 {
+      width: 100px;
+      height: 100px;
       background-color: dodgerblue;
     }
 h1 {
