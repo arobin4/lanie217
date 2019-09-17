@@ -6,10 +6,4 @@ h1 {
   }
   img {
     max-width: 100%;
-    p{
-      color: blue;
-    }
-    .intro{
-      color: green;
-    }
   }
