@@ -1,0 +1,19 @@
+body {
+    background-color: pink;
+    text-align: left;
+.title1 {
+      width: 100px;
+      height: 100px;
+      background-color: dodgerblue;
+    }
+.title2 {
+      width: 100px;
+      height: 100px;
+      background-color: dodgerblue;
+    }
+h1 {
+    color: rgb(70,130,180);
+  }
+  img {
+    max-width: 100%;
+  }
