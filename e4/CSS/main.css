@@ -4,13 +4,15 @@ body {
 h1 {
     color: rgb(70,130,180);
   }
+  #container{
+    50%;
+  }
     p {
       color: blue;
     }
     .intro{
       color: green;
     }
-  }
   img {
     max-width: 100%;
 
