@@ -1,0 +1,31 @@
+body {
+    background-color: pink;
+    text-align: left;
+}
+#container {
+  width: 120%;
+  margin-left: -10%;
+  margin-top: -50px;
+}
+.tile1, .tile2, .tile3 {
+  width: 100px;
+  height: 100px;
+  float: right;
+  opacity: .8;
+  margin:-10px;
+}
+.tile1 {
+      background-color: dodgerblue;
+    }
+.tile2 {
+      background-color: purple;
+    }
+.tile3 {
+     background-color: green;
+}
+h1 {
+    color: rgb(70,130,180);
+  }
+  img {
+    max-width: 100%;
+  }

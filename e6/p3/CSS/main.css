@@ -1,0 +1,37 @@
+body {
+    background-color: pink;
+    text-align: left;
+}
+#container {
+  width: 120%;
+  margin-left: -20%;
+  margin-top: -60px;
+}
+.tile1, .tile2, .tile3, .tile4, .title5 {
+  width: 100px;
+  height: 100px;
+  float: right;
+  opacity: .8;
+  margin:-10px;
+}
+.tile1 {
+      background-color: rgb(231, 224, 79);
+    }
+.tile2 {
+      background-color: rgb(185, 222, 66);
+    }
+.tile3 {
+     background-color: rgb(94, 159, 32);
+   }
+.tile4 {
+    background-color: rgb(36, 216, 147);
+   }
+.tile5 {
+       background-color: rgb(30, 139, 131);
+      }
+h1 {
+    color: rgb(70,130,180);
+  }
+  img {
+    max-width: 100%;
+  }
