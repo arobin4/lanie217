@@ -1,6 +1,7 @@
 body {
     background-color: pink;
     text-align: left;
+    max-width: 100%;
   }
 h1 {
     color: rgb(70,130,180);
@@ -10,12 +11,11 @@ h1 {
     margin: 100px auto;
   }
   p {
-      color: blue;
+      color: darkblue;
     }
 .intro{
       color: green;
     }
 img {
-    max-width: 100%;
-
+  max-width: 100%
   }

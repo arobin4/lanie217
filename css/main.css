@@ -1,7 +1,42 @@
 body {
     background-color: pink;
     text-align: center;
-  }
-  img {
-    max-width: 100%;
+        background-color: pink;
+        max-width: 100%;
+        font-family: sans-serif;
+        font-weight: bold;
+        text-transform uppercase;
+        letter-spacing: 1px;
+        font-size: 24px;
+      }
+
+    h1 {
+            color: rgb(70,130,180);
+          }
+    a {
+        color: purple;
+        text-decoration: none;
+        border-bottom: 10px dotted black;
+        transition: color 2s ease;
+      }
+    a:hover {
+            color:red;
+            cursor:crosshair;
+            }
+    h1 {
+        color: rgb(70,130,180);
+      }
+    #container {
+        width:50%;
+        margin: 100px auto;
+      }
+      p {
+          color: blue;
+        }
+    .intro{
+          color: green;
+        }
+    img {
+      max-width: 100%
+      }
   }
