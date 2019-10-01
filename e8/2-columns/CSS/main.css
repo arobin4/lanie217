@@ -29,10 +29,10 @@ body {
   margin: 0 0 10px 0;
   float:left;
 }
+<footer></footer>
 .footer{
   width: 800px;
   height: 100px;
   background-color: red;
   margin-right:0 10px 0 0;
 }
-<footer></footer>

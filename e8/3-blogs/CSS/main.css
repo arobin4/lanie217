@@ -1,0 +1,28 @@
+body{background-color:white
+    box-sizing:border: border-box;
+}
+body {
+  box-sizing: border-box;
+}
+<header></header>
+<nav></nav>
+.header{
+ width: 800px;
+ height: 100px;
+ background-color: red;
+ margin: 0 0 10px;
+}
+.col{
+  width: calc(780px / 3);
+  height: 1000px;
+  background-color: lightgreen;
+  margin: 0 0 10px 0;
+  float:left;
+}
+<footer></footer>
+.footer{
+  width: 800px;
+  height: 100px;
+  background-color: red;
+  margin-right:0 10px 0 0;
+}
