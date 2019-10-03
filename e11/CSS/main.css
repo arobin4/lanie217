@@ -1,0 +1,21 @@
+body {
+    background-color: pink;
+    text-align: center;
+        background-color: pink;
+        max-width: 100%;
+        font-family: sans-serif;
+        font-weight: bold;
+        text-transform uppercase;
+        letter-spacing: 1px;
+        font-size: 14px;
+  }
+  a {
+      color: purple;
+      text-decoration: none;
+      border-bottom: 10px dotted black;
+      transition: color 2s ease;
+    }
+  a:hover {
+          color:red;
+          cursor:crosshair;
+          }
