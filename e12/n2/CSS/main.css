@@ -53,6 +53,7 @@ h2{
   width: 1200px;
 }
 .navigation{
+  padding: 200px 200px 600px 40px;
   color: black;
   float: left;
   font-family: forma-djr-deck,sans-serif;
@@ -60,15 +61,12 @@ h2{
   font-style: italic;
   font-size: 40px;
   letter-spacing: 30px;
-  .vertical-text span {transform: rotate(-90deg)}
-.text4{
-  margin: 0px 600px -3000px 500px;
-  color: black;
-  float: center;
-  font-family: forma-djr-deck,sans-serif;
-  font-weight: 200;
-  font-style: italic;
-  font-size: 50px;
-  letter-spacing: 30px;
-  }
+  {transform: rotate(-90deg)}
 }
+.text4{
+  font-size: 14px;
+  text-align:left;
+  line-height:20px;
+  font-weight: bold;
+  color:black;
+  }
