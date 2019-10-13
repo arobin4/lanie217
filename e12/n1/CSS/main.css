@@ -7,7 +7,7 @@ img {
 }
 #container{
   width: 1200px;
-  margin: 50px 500px 10px 20px;
+  margin: 50px 500px 30px 20px;
 }
 #box{
   width: 1200px;
@@ -15,7 +15,7 @@ img {
 }
 #grand{
   width: 1200px;
-  height: 50px;
+  height: 30px;
 }
 #square{
   width: 1200px;
@@ -27,31 +27,33 @@ img {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  padding: 200px 500px 10px 20px;
+  padding: 300px 500px 40px 30px;
 }
 .text{
   text-align:left;
   color:rgb(49, 56, 22);
-  padding: 0px 500px 200px 20px;
+  padding: 0px 500px 200px 50px;
 }
 .title{
   text-align:left;
-  padding: 0px 500px 90px 24px;
+  padding: 0px 500px 0px 20px;
 }
 .paratext{
   text-align:left;
   color:rgb(49, 56, 22);
-  padding: 40px 500px 200px 20px;
+  padding: 30px 500px 200px 20px;
 }
 h1{
-  font-size: 80px;
+  font-size: 70px;
   text-align:left;
   color: rgb(227, 238, 185);
 }
 p{
-  font-size: 12px;
+  font-size: 14px;
   text-align:left;
-  color:black);
+  line-height:20px;
+  font-weight: bold;
+  color:black;
 }
 h2{
   font-size: 30px;
