@@ -1,5 +1,6 @@
 body {
-    background-color: white;
+    background-color: rgb(167, 183, 105);
+    margin: 100px 50px 1100px 50px;
 }
 #box1{
   width: 1200px;
@@ -12,7 +13,7 @@ body {
 }
 .text{
   margin: 100px 600px -130px 500px;
-  color: black;
+  color: darkgreen;
   font-family: forma-djr-deck,sans-serif;
   font-weight: 200;
   font-style: italic;
@@ -21,7 +22,7 @@ body {
 }
 .text2{
   margin: 0px 600px -130px 500px;
-  color: black;
+  color: darkgreen;
   float: center;
   font-family: forma-djr-deck,sans-serif;
   font-weight: 200;
@@ -31,7 +32,7 @@ body {
 }
 .text3{
   margin: 0px 600px -3000px 500px;
-  color: black;
+  color: darkgreen;
   float: center;
   font-family: forma-djr-deck,sans-serif;
   font-weight: 200;
@@ -41,7 +42,7 @@ body {
 }
 h2{
   margin: -50px 0px -130px 80px;
-  color: black;
+  color: darkgreen;
   float: center;
   font-family: forma-djr-deck,sans-serif;
   font-weight: 200;
@@ -49,24 +50,24 @@ h2{
   font-size: 40px;
   letter-spacing: 30px;
 }
-#container{
-  width: 1200px;
-}
-.navigation{
-  padding: 200px 200px 600px 40px;
-  color: black;
-  float: left;
-  font-family: forma-djr-deck,sans-serif;
-  font-weight: 200;
-  font-style: italic;
-  font-size: 40px;
-  letter-spacing: 30px;
-  {transform: rotate(-90deg)}
-}
 .text4{
+    margin: 3000px 500px 100px 200px;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    color: darkgreen;
+    font-family: forma-djr-deck,sans-serif;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 40px;
+    letter-spacing: 30px;
+  }
+.text5{
+  margin: -50px 100px -800px 500px;
+  font-family:adobe-garamond-pro, serif;
   font-size: 14px;
   text-align:left;
-  line-height:20px;
+  line-height: 20px;
   font-weight: bold;
-  color:black;
+  color: black;
+  float: left;
   }
