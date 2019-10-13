@@ -51,18 +51,19 @@ h2{
   letter-spacing: 30px;
 }
 .text4{
-    margin: 3000px 500px 100px 200px;
+    margin: 3000px 500px 100px 300px;
     writing-mode: vertical-rl;
     text-orientation: upright;
     color: darkgreen;
     font-family: forma-djr-deck,sans-serif;
     font-weight: 200;
     font-style: italic;
-    font-size: 40px;
+    font-size: 30px;
     letter-spacing: 30px;
+    line-height: 40px;
   }
 .text5{
-  margin: -50px 100px -800px 500px;
+  margin: -820px 100px -800px 500px;
   font-family:adobe-garamond-pro, serif;
   font-size: 14px;
   text-align:left;
