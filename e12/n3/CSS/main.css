@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(101, 155, 166);
+    margin: 100px 50px 200px 50px;
+}
+#container{
+  width: 1200px;
+}
+#space{
+  width: 1200px;
+}
+h1{
+  margin: 50px 300px 0px 420px;
+  color: rgb(187, 203, 103);
+  font-family: reross-rectangular, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 80px;
+  letter-spacing: 30px;
+}
+h2{
+  margin: 30px 700px 0px 530px;
+  color:rgb(67, 113, 119);
+  font-family: reross-rectangular, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 50px;
+  letter-spacing: 10px;
+}
+h3{
+  margin: -40px 700px 0px 530px;
+  color: rgb(187, 203, 103);
+  font-family: reross-rectangular, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 50px;
+  letter-spacing: 10px;
+}
+h4{
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  margin: 100px 600px 0px 650px;
+  color: rgb(187, 203, 103);
+  font-family: reross-rectangular, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 40px;
+  letter-spacing: 30px;
+}
+.text3{
+  float:left
+  font-family: tablet-gothic-condensed, sans-serif;
+  font-weight: 400;
+  font-style: bold;
+  font-size: 14px;
+  margin: -810px 600px 0px 200px;
+  color: white;
+  line-height: 20px;
+}
+.text4{
+  float:left
+  font-family: tablet-gothic-condensed, sans-serif;
+  font-weight: 400;
+  font-style: bold;
+  font-size: 14px;
+  margin: -610px 100px 100px 800px;
+  color: white;
+  line-height: 20px;
+}
