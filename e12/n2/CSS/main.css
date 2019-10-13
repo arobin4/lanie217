@@ -10,8 +10,11 @@ body {
 #box3{
   width: 1200px;
 }
+#square{
+  width: 1200px;
+}
 .text{
-  margin: 100px 200px -130px 600px;
+  margin: 100px 600px -130px 600px;
   color: black;
   font-family: forma-djr-deck,sans-serif;
   font-weight: 200;
@@ -20,7 +23,7 @@ body {
   letter-spacing: 30px;
 }
 .text2{
-  margin: 0px 900px -130px 600px;
+  margin: 0px 600px -130px 600px;
   color: black;
   float: center;
   font-family: forma-djr-deck,sans-serif;
@@ -30,7 +33,7 @@ body {
   letter-spacing: 30px;
 }
 .text3{
-  margin: 0px 900px -3000px 600px;
+  margin: 0px 600px -3000px 600px;
   color: black;
   float: center;
   font-family: forma-djr-deck,sans-serif;
@@ -38,4 +41,14 @@ body {
   font-style: italic;
   font-size: 50px;
   letter-spacing: 30px;
+}
+.info{
+  margin: 0px 600px 0px 600px;
+  color: black;
+  float: center;
+  font-family: forma-djr-deck,sans-serif;
+  font-weight: 50;
+  font-style: italic;
+  font-size: 24px;
+  letter-spacing: 10px;
 }
