@@ -1,0 +1,65 @@
+body {
+  margin: 100px 50px 0 50px;
+    background-color: rgb(227, 238, 185);
+}
+img {
+  max-width: 100%;
+}
+#container{
+  width: 1200px;
+  margin: 50px 500px 10px 20px;
+}
+#box{
+  width: 1200px;
+  height: 50px;
+}
+#grand{
+  width: 1200px;
+  height: 50px;
+}
+#square{
+  width: 1200px;
+  height: 400px;
+}
+.picture{
+  background: url(../img/green-1072828.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 200px 500px 10px 20px;
+}
+.text{
+  text-align:left;
+  color:rgb(49, 56, 22);
+  padding: 0px 500px 200px 20px;
+}
+.title{
+  text-align:left;
+  padding: 0px 500px 90px 24px;
+}
+.paratext{
+  text-align:left;
+  color:rgb(49, 56, 22);
+  padding: 40px 500px 200px 20px;
+}
+h1{
+  font-size: 80px;
+  text-align:left;
+  color: rgb(227, 238, 185);
+}
+p{
+  font-size: 12px;
+  text-align:left;
+  color:black);
+}
+h2{
+  font-size: 30px;
+  text-align:left;
+  color:rgb(71, 79, 37);
+}
+h3{
+  font-size: 40px;
+  text-align:left;
+  color:rgb(71, 79, 37);
+}
