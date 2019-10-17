@@ -1,0 +1,13 @@
+body {
+    background-color: pink;
+    text-align:left;
+        max-width: 100%;
+        font-family: sans-serif;
+        font-weight: bold;
+        letter-spacing: 1px;
+        font-size: 10px;
+  }
+  h1 {
+      color: black;
+      font size: 24px;
+        }
