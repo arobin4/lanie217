@@ -1,12 +1,12 @@
 body {
-    background-color: white;
+    background-color: pink;
     text-align: center;
-        background-color: white;
+        background-color: pink;
         max-width: 100%;
         font-family: sans-serif;
         text-transform uppercase;
         letter-spacing: 1px;
-        font-size: 10px;
+        font-size: 30px;
   }
   h1 {
           color: rgb(70,130,180);
