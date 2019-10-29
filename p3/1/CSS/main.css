@@ -69,10 +69,15 @@ img {
     /* float: left; */
    }
 .title1{
-  text-align: right;
+  text-align: center;
   font-size: 50px;
   letter-spacing: 10px;
-  padding-left: 50%;
-  padding-bottom: 3%;
-  padding-top: 10%;
+  float: right;
+  margin-top: -500px;
+  margin-bottom: 900px;
+  padding-right: 100px;
+}
+.rectangle{
+  width: 10px;
+
 }
