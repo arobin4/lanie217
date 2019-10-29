@@ -1,0 +1,54 @@
+body {
+    background-color: pink;
+    text-align: left;
+    max-width: 100%;
+  }
+h1 {
+    color: rgb(70,130,180);
+    font-size:40px;
+  }
+#container {
+    width:50%;
+    margin: 100px auto;
+  }
+  p {
+      color: black;
+    }
+.intro{
+      color: green;
+    }
+img {
+  max-width: 100%
+  }
+  @media only screen and (max-width: 1000px)
+  {
+  body{background-color: lightblue;}
+  p{ color: darkblue;
+  font-size: 19px;}
+  #container {
+      width:60%;
+      margin: 100px auto;
+    }
+    ul{
+      color: darkblue;
+    }
+  }
+
+  @media only screen and (max-width: 600px)
+  {
+  body{background-color: lightgreen;}
+  h1{
+    font-size: 40px;
+    color: darkgreen;
+  }
+  p{ color: darkgreen;
+  font-size: 20px;}
+  #container {
+      width:80%;
+      margin: 100px auto;
+    }
+  ul{
+      color: darkgreen;
+    }
+  }
+  }
