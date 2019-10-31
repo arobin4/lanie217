@@ -1,0 +1,6 @@
+body{
+  background-color: orange;
+  height:100%;
+  padding-top:6em;
+  background:radial-gradient($background 50%, $highlight 90%);
+}
