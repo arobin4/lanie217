@@ -78,6 +78,13 @@ img {
   padding-right: 100px;
 }
 .rectangle{
-  width: 10px;
-
+  border-width: 1px;
+  border: solid 5px #000;
+  border-color: black transparent transparent transparent;
+  border-radius: 25%/50px 100px 0 0;
+  width: 170px;
+  margin-left: 15%;
+  margin-right: 2%;
+  position:absolute;
+  top: 480px;
 }
