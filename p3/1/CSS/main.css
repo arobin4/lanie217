@@ -1,6 +1,6 @@
 body {
-  /* width: 1440px; */
-  /* height: 6404px; */
+    Width: 1440px;
+    height: 100%;
     background-color: white;
 }
 img {
@@ -91,27 +91,140 @@ img {
   float: right;
   z-index: 1;
   position:absolute;
-  top: 900px;
-  bottom: 20px;
+  top: 920px;
+  bottom: 0px;
   margin-left: 40%;
   margin-right: 50%;
 }
 .graybox2{
-  width: 50%;
+  width: 730px;
   float: right;
-  height: 400px;
+  height: 412px;
   position:absolute;
+  left: 725px;
   top: 1050px;
-  bottom: 0px;
-  margin-left: 0%;
-  margin-right: 50%;
   background-color: rgb(198, 197, 196);
 }
-
-
-
-
+p{
+  font-size: 30px;
+  text-align: left;
+  line-height: 1.6;
+  text-indent: 20px;
+}
 .text1{
-  float: right
-
+  height: 100%;
+  position: absolute;
+  top: 20px;
+  right: 50px;
+  left: 50px;
+}
+.picture2{
+    float: left;
+    position: absolute;
+    top: 1050px;
+    margin-left: 3%;
+}
+.picture3{
+    float: left;
+    position: absolute;
+    top: 1500px;
+    margin-left: 3%;
+}
+.picture4{
+    float: left;
+    position: absolute;
+    top: 1500px;
+    margin-left: 34%;
+}
+.picture5{
+    width: 100%;
+    position: absolute;
+    top: 1500px;
+    margin-left: 64%;
+}
+.textnavigation2{
+  text-align: center;
+  font-size: 40px;
+  letter-spacing: 10px;
+  float: right;
+  position:absolute;
+  top: 1795px;
+  margin-left: 33%;
+  margin-right: 50%;
+}
+.picture6{
+  float: left;
+  position: absolute;
+  top: 1980px;
+  margin-left: 3%;
+}
+.graybox3{
+  width: 500px;
+  float: right;
+  height: 559px;
+  position:absolute;
+  left: 959px;
+  top: 1980px;
+  background-color: rgb(198, 197, 196);
+}
+.picture7{
+  float: left;
+  position: absolute;
+  top: 2590px;
+  margin-left: 3%;
+}
+.picture8{
+  width: 100%;
+  position: absolute;
+  top: 2590px;
+  margin-left: 64%;
+}
+.textnavigation3{
+  text-align: center;
+  font-size: 40px;
+  letter-spacing: 10px;
+  float: right;
+  position:absolute;
+  top: 3000px;
+  margin-left: 33%;
+  margin-right: 50%;
+}
+.picture9{
+  float: left;
+  position: absolute;
+  top: 3150px;
+  margin-left: 3%;
+}
+.graybox4{
+  width: 690px;
+  float: right;
+  height: 569px;
+  position:absolute;
+  left: 760px;
+  top: 3150px;
+  background-color: rgb(198, 197, 196);
+}
+.picture10{
+  float: left;
+  position: absolute;
+  top: 3780px;
+  margin-left: 3%;
+}
+.picture11{
+  float: left;
+  position: absolute;
+  top: 3780px;
+  margin-left: 25%;
+}
+.picture12{
+  float: left;
+  position: absolute;
+  top: 3780px;
+  margin-left: 50.5%;
+}
+.picture13{
+  width: 100%;
+  position: absolute;
+  top: 3780px;
+  margin-left: 70%;
 }
