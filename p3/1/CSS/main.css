@@ -75,16 +75,14 @@ img {
   padding-right: 100px;
 }
 .rectangle{
-  border-width: 1px;
+  border-width: 3px;
   border: solid 5px #000;
   border-color: black transparent transparent transparent;
   border-radius: 25%/50px 100px 0 0;
   width: 1450px;
   margin-left: 0%;
   margin-right: 9%;
-  position:absolute;
-  top: 750px;
-  z-index: 4;
+  /* z-index: -1; */
 }
 .textnavigation{
   text-align: center;
@@ -97,4 +95,23 @@ img {
   bottom: 20px;
   margin-left: 40%;
   margin-right: 50%;
+}
+.graybox2{
+  width: 50%;
+  float: right;
+  height: 400px;
+  position:absolute;
+  top: 1050px;
+  bottom: 0px;
+  margin-left: 0%;
+  margin-right: 50%;
+  background-color: rgb(198, 197, 196);
+}
+
+
+
+
+.text1{
+  float: right
+
 }
