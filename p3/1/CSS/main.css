@@ -144,12 +144,12 @@ p{
 }
 .textnavigation2{
   text-align: center;
-  font-size: 40px;
+  font-size: 50px;
   letter-spacing: 10px;
   float: right;
   position:absolute;
-  top: 1795px;
-  margin-left: 33%;
+  top: 1800px;
+  margin-left: 31%;
   margin-right: 50%;
 }
 .picture6{
@@ -167,6 +167,12 @@ p{
   top: 1980px;
   background-color: rgb(198, 197, 196);
 }
+.text2{
+  position: absolute;
+  top: 20px;
+  right: 50px;
+  left: 50px;
+}
 .picture7{
   float: left;
   position: absolute;
@@ -181,7 +187,7 @@ p{
 }
 .textnavigation3{
   text-align: center;
-  font-size: 40px;
+  font-size: 50px;
   letter-spacing: 10px;
   float: right;
   position:absolute;
@@ -207,24 +213,82 @@ p{
 .picture10{
   float: left;
   position: absolute;
-  top: 3780px;
+  top: 3775px;
   margin-left: 3%;
 }
 .picture11{
   float: left;
   position: absolute;
-  top: 3780px;
+  top: 3775px;
   margin-left: 25%;
 }
 .picture12{
   float: left;
   position: absolute;
-  top: 3780px;
+  top: 3775px;
   margin-left: 50.5%;
 }
 .picture13{
   width: 100%;
   position: absolute;
-  top: 3780px;
-  margin-left: 70%;
+  top: 3775px;
+  margin-left: 78%;
+}
+.textnavigation4{
+  Width: 100%;
+  text-align: center;
+  font-size: 50px;
+  letter-spacing: 10px;
+  position:absolute;
+  top: 4250px;
+  left: 0px;
+  right: 300px;
+
+}
+.picture14{
+  float: left;
+  position: absolute;
+  top: 4400px;
+  margin-left: 3%;
+}
+.graybox5{
+  width: 465px;
+  float: right;
+  height: 588px;
+  position:absolute;
+  left: 980px;
+  top: 4400px;
+  background-color: rgb(198, 197, 196);
+}
+h5{
+  font-size: 30px;
+  text-align: center;
+  width: 100%;
+}
+.text4{
+  height: 100%
+  float: center;
+  text-align: left;
+  position:absolute;
+  top:20px;
+  margin-left: 55px;
+  line-height: 1.6;
+}
+.textnavigation5{
+  text-align: center;
+  font-size: 50px;
+  letter-spacing: 10px;
+  float: right;
+  position:absolute;
+  top: 5030px;
+  margin-left: 40%;
+  margin-right: 50%;
+}
+.graybox6{
+  width: 1405px;
+  height: 40%;
+  position:absolute;
+  left: 3%;
+  top: 5200px;
+  background-color: rgb(198, 197, 196);
 }
