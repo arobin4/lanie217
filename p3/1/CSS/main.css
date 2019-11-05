@@ -290,7 +290,7 @@ h5{
   top: 5200px;
   background-color: rgb(198, 197, 196);
 }
-@media only screen and (max-width: 1339px){
+@media only screen and (max-width: 1440px){
 body{
       Width: 1440px;
       height: 100%;
@@ -337,17 +337,6 @@ hr {
     padding: 0;
     position:absolute;
     top: 600px;
-}
-hr1 {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 5px solid black;
-    width: 52.5%;
-    padding: 0;
-    position: absolute;
-    top: 315px;
-    left: 47.6%;
 }
 .textnavigation{
   text-align: center;
@@ -591,10 +580,10 @@ hr4 {
 .graybox5{
   width: 465px;
   float: right;
-  height: 588px;
+  height:300px;
   position:absolute;
-  left: 980px;
-  top: 2000px;
+  left: 540px;
+  top: 3600px;
   background-color: rgb(198, 197, 196);
 }
 h5{
@@ -603,13 +592,8 @@ h5{
   width: 100%;
 }
 .text4{
-  height: 100%
-  float: center;
-  text-align: left;
-  position:absolute;
-  top:20px;
-  margin-left: 55px;
-  line-height: 1.6;
+  position: absolute;
+  top: 2px;
 }
 .textnavigation5{
   text-align: center;
@@ -617,16 +601,16 @@ h5{
   letter-spacing: 10px;
   float: right;
   position:absolute;
-  top: 5030px;
+  top: 3950px;
   margin-left: 40%;
   margin-right: 50%;
 }
 .graybox6{
-  width: 1405px;
+  width: 980px;
   height: 40%;
   position:absolute;
   left: 3%;
-  top: 5200px;
+  top: 4100px;
   background-color: rgb(198, 197, 196);
 }
 }
