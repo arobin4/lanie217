@@ -526,7 +526,7 @@ hr3 {
 }
 .picture10{
   height: auto;
-  width: 450px;
+  width: 200px;
   max-width: 100%;
   float: left;
   position: absolute;
@@ -535,30 +535,39 @@ hr3 {
 }
 .picture11{
   height: auto;
-  width: 450px;
+  width: 200px;
   max-width: 100%;
   float: left;
   position: absolute;
   top: 3035px;
-  margin-left: 25%;
+  margin-left: 26%;
 }
 .picture12{
   height: auto;
-  width: 450px;
+  width: 240px;
   max-width: 100%;
   float: left;
   position: absolute;
   top: 3035px;
-  margin-left: 50.5%;
+  margin-left: 50%;
 }
 .picture13{
-  height: auto;
-  width: 450px;
+  height: 300px;
+  width: 202px;
   max-width: 100%;
-  width: 100%;
   position: absolute;
   top: 3035px;
   margin-left: 78%;
+}
+hr4 {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 10px solid rgb(198, 197, 196);
+    width: 98%;
+    padding: 0;
+    position:absolute;
+    top: 3400px;
 }
 .textnavigation4{
   Width: 100%;
@@ -566,15 +575,17 @@ hr3 {
   font-size: 35px;
   letter-spacing: 10px;
   position:absolute;
-  top: 4250px;
+  top: 3450px;
   left: 0px;
   right: 300px;
-
 }
 .picture14{
+  height: auto;
+  width: 450px;
+  max-width: 100%;
   float: left;
   position: absolute;
-  top: 4400px;
+  top: 3600px;
   margin-left: 3%;
 }
 .graybox5{
