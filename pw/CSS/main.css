@@ -4,12 +4,17 @@ html{
 body{
   margin: 0;
 }
+.clearfix:after{
+  Content:""
+  dispplay: table;
+  clear: both;
+}
 #header{
   width: 100%;
   height: 90vh;
   background-color: #cccc;
   background: url(../img/hero.jpg)
-  no-repeat bottom right fixed; background-size: cover;
+  no-repeat bottom right; background-size: cover;
   padding: 5%;
 }
 h1{
@@ -23,9 +28,49 @@ h1{
   color: white;
 }
 .text{
-  width:800px;
-  margin:
+  width: 45vw;
+  margin: 50px auto;
 }
 p{
-  font family: 'Merriwather',
+  font family: 'Merriwather', serif;
+  line-height: 1.6em;
+  margin: 30px 0 0 0;
 }
+.text p.intro{
+ font-size: 2em;
+ line-height: 1.4em;
+}
+.text img .iim{
+  max-width: 100%;
+  margin: 50px 0 25px;
+}
+.iim{
+width: 80%;
+margin: 50px auto;
+}
+.iim img{
+  max-width: 50%;
+  float: left;
+  margin: 0 50px 25px 0;
+}
+img.full{
+  margin: 50px 0 0 0;
+  max-width: 100%;
+}
+img.half{
+  float: left;
+  max-width: calc(50%-5px);
+  margin: 10px 0%;
+}
+img.right-10px{
+  margin-right: 10px;
+}
+@media only screen and (max-width 1440px){
+.text{
+  width: 75vw;
+}
+.iim{
+width: 95vw;
+}
+}
+@media only screen and (max-width 1024px)
