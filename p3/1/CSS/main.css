@@ -348,7 +348,7 @@ img {
     height: 30vh;
   }
   p{
-    font-size: 20px;
+    font-size: 18px;
   }
   .picture3{
       width: 25vw;
@@ -368,25 +368,64 @@ img {
       height: auto;
       margin-left: 63%;
   }
+  .picture6{
+      height: 50vh;
+      width: auto;
+  }
   .graybox3{
-    height: 37vh;
-    width: 54vh;
-    margin-left: 2%;
+    height: 50vh;
+    width: 30vh;
+    margin-left: 22%;
   }
   .text2{
-    height: 30vh;
+    height: 60vh;
   }
   .picture7{
-    width: 32vw;
+    width: 62vw;
     height: auto;
     margin-left: 3%;
   }
   .picture8{
-    width: 32vw;
-    height: auto;
-    margin-left: 49%;
+    display: none;
   }
-
+  .graybox4{
+    height: 64vh;
+    width: 34vh;
+    margin-left: 18%;
+    }
+  .picture9{
+    width: auto;
+    height: 64vh;
+  }
+  .picture10{
+    width: 60vw;
+    height: auto;
+    float: left;
+    margin-left: 3%;
+  }
+  .picture11{
+  margin-left: 32%;
+  }
+  .picture12{
+    width: 50vw;
+    height: auto;
+    float: left;
+    margin-left: 63%;
+  }
+  .picture13{
+    display: none;
+  }
+.graybox5{
+  height: 34vh;
+}
+.text4{
+  height:30vh;
+}
+h5{
+  font-size:20px;
+}
+.graybox6{
+  height: 21vh;
 }
 @media only screen and (max-width: 1220px){
   .graybox{
