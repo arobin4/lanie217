@@ -35,7 +35,7 @@ body {
   padding: 5vh;
 }
 .picture{
-  width: 40vw;
+  width: 47vw;
   height:45vh;
   float: left;
   background-color: grey;
@@ -103,10 +103,289 @@ hr {
   margin-left: 5vw;
   margin-top: 4vw;
 }
-hr2 {
+hr2{
     display: block;
     height: 1px;
     border: 0;
     border-top: 10px solid rgb(198, 197, 196);
     width: 100%;
     margin-top: 40vh;
+  }
+.textnavigation2{
+      width: 20vw;
+      height: 10vh;
+      margin-left: 40vw;
+      margin-top: 8vw;
+      background-color: grey;
+  }
+.picture6{
+      width: 50vw;
+      height: 48vh;
+      float: left;
+      background-color: grey;
+      margin-left: 5vw;
+      margin-top: 5vw;
+}
+.graybox3{
+  width: 30vw;
+  height: 48vh;
+  background-color: rgb(198, 197, 196);
+  margin-top: 5vw;
+  margin-left: 60vw;
+}
+.picture7{
+  width: 50vw;
+  height: 35vh;
+  float: left;
+  background-color: grey;
+  margin-left: 5vw;
+  margin-top: 5vw;
+}
+.picture8{
+  width: 30vw;
+  height: 35vh;
+  float: left;
+  background-color: grey;
+  margin-left: 5vw;
+  margin-top: 5vw;
+}
+hr3{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 10px solid rgb(198, 197, 196);
+    width: 100%;
+    margin-top: 60vh;
+  }
+.textnavigation3{
+        width: 20vw;
+        height: 10vh;
+        margin-left: 40vw;
+        margin-top: 5vw;
+        background-color: grey;
+}
+.picture9{
+  width: 40vw;
+  height: 55vh;
+  float: left;
+  background-color: grey;
+  margin-left: 5vw;
+  margin-top: 5vw;
+}
+.graybox4{
+  width: 40vw;
+  height: 55vh;
+  background-color: rgb(198, 197, 196);
+  margin-top: 5vw;
+  margin-left: 51vw;
+}
+.picture10{
+  width: 18vw;
+  height: 35vh;
+  float: left;
+  background-color: grey;
+  margin-left: 5vw;
+  margin-top: 4vw;
+}
+.picture11{
+  width: 18vw;
+  height: 35vh;
+  float: left;
+  background-color: grey;
+  margin-left: 4vw;
+  margin-top: 4vw;
+}
+.picture12{
+  width: 18vw;
+  height: 35vh;
+  float: left;
+  background-color: grey;
+  margin-left: 6vw;
+  margin-top: 4vw;
+}
+.picture13{
+  width: 18vw;
+  height: 35vh;
+  float: left;
+  background-color: grey;
+  margin-left: 4vw;
+  margin-top: 4vw;
+}
+hr4{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 10px solid rgb(198, 197, 196);
+    width: 100%;
+    margin-top: 50vh;
+  }
+  .textnavigation4{
+          width: 20vw;
+          height: 10vh;
+          margin-left: 40vw;
+          margin-top: 5vw;
+          background-color: grey;
+  }
+.picture14{
+    width: 55vw;
+    height: 50vh;
+    float: left;
+    background-color: grey;
+    margin-left: 4vw;
+    margin-top: 4vw;
+  }
+  .graybox5{
+    width: 26vw;
+    height: 50vh;
+    background-color: rgb(198, 197, 196);
+    margin-top: 4vw;
+    margin-left: 64vw;
+  }
+  .textnavigation5{
+          width: 20vw;
+          height: 10vh;
+          margin-left: 40vw;
+          margin-top: 8vw;
+          background-color: grey;
+  }
+  .graybox6{
+    width: 85vw;
+    height: 40vh;
+    background-color: rgb(198, 197, 196);
+    margin-top: 4vw;
+    margin-left: 5vw;
+  }
+@media only screen and (max-width: 1024px){
+  .text{
+    width: 85vw;
+    height: 7vh;
+    margin-left: 6vw;
+  }
+@media only screen and (max-width: 768px){
+.picture{
+    width: 37vw;
+    height:30vh;
+    float: left;
+    background-color: grey;
+    margin-left: 5vw;
+  }
+  .graybox{
+    width: 100%;
+    height: 40vh;
+    background-color: rgb(198, 197, 196);
+    margin-top: 2%;
+    padding: 4vh;
+  }
+  .title1{
+    width: 24vw;
+    height: 28vh;
+    margin-left: 60vw;
+    margin-top: 2vw;
+    background-color: grey;
+  }
+  .picture2{
+    width: 50vw;
+    height: 35vh;
+    float: left;
+    background-color: grey;
+    margin-left: 5vw;
+    margin-top: 7vw;
+  }
+  .graybox2{
+    width: 30vw;
+    height: 35vh;
+    background-color: rgb(198, 197, 196);
+    margin-top: 7vw;
+    margin-left: 60vw;
+  }
+  .picture3{
+    width: 25vw;
+    height: 26vh;
+  }
+  .picture4{
+    width: 25vw;
+    height: 26vh;
+  }
+  .picture5{
+    width: 25vw;
+    height: 26vh;
+
+  }
+  .graybox3{
+    width: 30vw;
+    height: 37vh;
+
+  }
+  .picture6{
+        width: 50vw;
+        height: 37vh;
+
+  }
+  .picture7{
+    width: 50vw;
+    height: 25vh;
+
+  }
+  .picture8{
+    width: 30vw;
+    height: 25vh;
+
+  }
+  hr3{
+      margin-top: 40vh;
+    }
+    .graybox4{
+      width: 40vw;
+      height: 30vh;
+      background-color: rgb(198, 197, 196);
+      margin-top: 5vw;
+      margin-left: 51vw;
+    }
+    .picture9{
+      height: 30vh;
+    }
+    .picture10{
+      width: 25vw;
+      height: 30vh;
+    }
+    .picture11{
+      width: 25vw;
+      height: 30vh;
+    }
+    .picture12{
+      width: 25vw;
+      height: 30vh;
+    }
+    .picture13{
+    display: none;
+    }
+    hr4{
+        margin-top: 40vh;
+      }
+    .picture14{
+        width: 55vw;
+        height: 30vh;
+      }
+      .graybox5{
+        width: 26vw;
+        height: 30vh;
+      }
+      .graybox6{
+        width: 85vw;
+        height: 40vh;
+        background-color: rgb(198, 197, 196);
+        margin-top: 4vw;
+        margin-left: 5vw;
+      }
+}
+@media only screen and (max-width: 320px){
+  .picture{
+      height:20vh;
+    }
+    .title1{
+      width: 24vw;
+      height: 8vh;
+      margin-left: 55vw;
+    }
+
+}
