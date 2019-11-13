@@ -105,7 +105,7 @@ hr {
   margin-left: 5vw;
   margin-top: 4vw;
 }
-hr2{
+.hr2{
     display: block;
     height: 1px;
     border: 0;
@@ -151,7 +151,7 @@ hr2{
   margin-left: 5vw;
   margin-top: 5vw;
 }
-hr3{
+.hr3{
     display: block;
     height: 1px;
     border: 0;
@@ -213,7 +213,7 @@ hr3{
   margin-left: 4vw;
   margin-top: 4vw;
 }
-hr4{
+.hr4{
     display: block;
     height: 1px;
     border: 0;
@@ -337,7 +337,7 @@ hr4{
     height: 25vh;
 
   }
-  hr3{
+  .hr3{
       margin-top: 40vh;
     }
     .graybox4{
@@ -365,7 +365,7 @@ hr4{
     .picture13{
     display: none;
     }
-    hr4{
+    .hr4{
         margin-top: 40vh;
       }
     .picture14{

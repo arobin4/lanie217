@@ -1,4 +1,56 @@
+
+html{
+  font-size: 16px;
+}
 body{
   margin: 0;
-  background-color: black;
+  background-color: lightyellow;
+  font-family: ff-real-headline-pro, sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+*{
+  box-sizing: border-box;
+}
+.title{
+  width: 100vw;
+  height: 90vh;
+  background-color: rgb(191, 109, 23);
+  padding: 32vh 0 0 0;
+}
+.emotion{
+  width: 100vw;
+  height: 40vh;
+  background-color: rgb(239, 159, 29);
+}
+.traumatic{
+  width: 100vw;
+  height: 40vh;
+  background-color: rgb(239, 194, 29);
+}
+.physical{
+  width: 100vw;
+  height: 40vh;
+  background-color: rgb(237, 213, 125);
+}
+.chronic{
+  width: 100vw;
+  height: 40vh;
+  background-color: rgb(237, 228, 125);
+}
+.exhaustion{
+  width: 100vw;
+  height: 40vh;
+  background-color: rgb(253, 248, 170);
+}
+.align-left{
+  text-align: left;
+}
+h1{
+  text-transform: uppercase;
+  font-size: 5em;
+  text-align: center;
+  color: black;
+  font weight: 700;
+  letter-spacing: .05em;
 }
