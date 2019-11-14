@@ -37,10 +37,11 @@ body {
   padding: 5vh;
 }
 .picture{
+  background:url('../img/ringfront.png') no-repeat center center;
+  background-size:cover;
   width: 47vw;
-  height:45vh;
+  height:auto;
   float: left;
-  background-color: grey;
   margin-left: 5vw;
 
 }
@@ -67,41 +68,47 @@ hr {
   background-color: grey;
 }
 .picture2{
-  width: 50vw;
+  background:url('../img/ring1.jpg') no-repeat center center;
+  background-size:cover;
+  width: 40vw;
   height: 50vh;
   float: left;
   background-color: grey;
-  margin-left: 5vw;
+  margin-left: 7.5vw;
   margin-top: 7vw;
 }
 .graybox2{
-  width: 30vw;
+  width: 40vw;
   height: 50vh;
   background-color: rgb(198, 197, 196);
   margin-top: 7vw;
-  margin-left: 60vw;
+  margin-left: 5vw;
+  float: left;
 }
 .picture3{
+  background:url('../img/ring2.jpg') no-repeat center center;
+  background-size:cover;
   width: 25vw;
   height: 23vh;
   float: left;
-  background-color: grey;
-  margin-left: 5vw;
+  margin-left: 7.5vw;
   margin-top: 4vw;
 }
 .picture4{
+  background:url('../img/ring3.jpg') no-repeat center center;
+  background-size:cover;
   width: 25vw;
   height: 23vh;
   float: left;
-  background-color: grey;
   margin-left: 5vw;
   margin-top: 4vw;
 }
 .picture5{
+  background:url('../img/ring4.jpg') no-repeat center center;
+  background-size:cover;
   width: 25vw;
   height: 23vh;
   float: left;
-  background-color: grey;
   margin-left: 5vw;
   margin-top: 4vw;
 }
@@ -121,11 +128,13 @@ hr {
       background-color: grey;
   }
 .picture6{
+      background:url('../img/bracelets1.jpg') no-repeat center center;
+      background-size:cover;
       width: 50vw;
       height: 48vh;
       float: left;
       background-color: grey;
-      margin-left: 5vw;
+      margin-left: 7.5vw;
       margin-top: 5vw;
 }
 .graybox3{
@@ -133,22 +142,26 @@ hr {
   height: 48vh;
   background-color: rgb(198, 197, 196);
   margin-top: 5vw;
-  margin-left: 60vw;
+  margin-left: 63vw;
 }
 .picture7{
+  background:url('../img/bracelets2.jpg') no-repeat center center;
+  background-size:cover;
   width: 50vw;
   height: 35vh;
   float: left;
   background-color: grey;
-  margin-left: 5vw;
+  margin-left: 7.5vw;
   margin-top: 5vw;
 }
 .picture8{
+  background:url('../img/bracelets3.jpg') no-repeat center center;
+  background-size:cover;
   width: 30vw;
   height: 35vh;
   float: left;
   background-color: grey;
-  margin-left: 5vw;
+  margin-left: 5.5vw;
   margin-top: 5vw;
 }
 .hr3{
