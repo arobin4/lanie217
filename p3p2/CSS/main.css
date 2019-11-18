@@ -482,7 +482,7 @@ hr {
         margin-top: 8vw;
     }
   .text1{
-      font-size: 15px;
+      font-size: 13px;
       padding-top: 2px;
       margin-right:40px;
       margin-left:40px;
@@ -571,6 +571,9 @@ hr {
       .text4{
         font-size: 20px;
         padding-top: 10px;
+      }
+      .text5{
+        font-size: 15px;
       }
       .graybox6{
         width: 85vw;
