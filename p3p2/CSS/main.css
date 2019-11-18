@@ -578,7 +578,7 @@ hr {
         margin-top: 4vw;
       }
 }
-@media only screen and (max-width: 520px){
+@media only screen and (max-width: 620px){
   .picture{
       height:20vh;
     }
