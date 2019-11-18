@@ -19,13 +19,17 @@ body {
   width: 100%;
   height: 100%;
   margin: 0 auto;
+  font-family: big-caslon-fb, serif;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
 }
 .text{
   text-align:center;
   font-size: 25px;
   letter-spacing: 15px;
   width: 85%;
-  height: 7vh;
+  height: 5%;
   float: center;
   margin-left: 8%;
 }
@@ -46,11 +50,14 @@ body {
 
 }
 .title1{
+  text-align: center;
+  font-size: 40px;
+  letter-spacing: 10px;
+  float: left;
   width: 20vw;
   height: 40vh;
   margin-left: 60vw;
   margin-top: 2vw;
-  background-color: grey;
 }
 hr {
     display: block;
@@ -61,11 +68,12 @@ hr {
     margin-top: 8vh;
 }
 .textnavigation{
+  text-align:center;
+  font-size: 40px;
+  letter-spacing: 15px;
   width: 20vw;
-  height: 10vh;
   margin-left: 40vw;
-  margin-top: 5vw;
-  background-color: grey;
+  margin-top: 2vw;
 }
 .picture2{
   background:url('../img/ring1.jpg') no-repeat center center;
@@ -85,6 +93,18 @@ hr {
   margin-left: 5vw;
   float: left;
 }
+.text1{
+    line-height: 1.6;
+    text-indent: 10%;
+    font-family: starling, serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 30px;
+    height: 100%;
+    margin-top: 20px;
+    margin-right:50px;
+    margin-left:50px;
+  }
 .picture3{
   background:url('../img/ring2.jpg') no-repeat center center;
   background-size:cover;
@@ -113,19 +133,20 @@ hr {
   margin-top: 4vw;
 }
 .hr2{
-    display: block;
     height: 1px;
     border: 0;
     border-top: 10px solid rgb(198, 197, 196);
     width: 100%;
-    margin-top: 40vh;
+    margin-top: 100vh;
   }
 .textnavigation2{
+      text-align:center;
+      font-size: 40px;
+      letter-spacing: 15px;
       width: 20vw;
       height: 10vh;
-      margin-left: 40vw;
+      margin-left: 35vw;
       margin-top: 8vw;
-      background-color: grey;
   }
 .picture6{
       background:url('../img/bracelets1.jpg') no-repeat center center;
@@ -143,6 +164,18 @@ hr {
   background-color: rgb(198, 197, 196);
   margin-top: 5vw;
   margin-left: 63vw;
+}
+.text2{
+  line-height: 1.6;
+  text-indent: 10%;
+  font-family: starling, serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 25px;
+  height: 100%;
+  margin-top: 50px;
+  margin-right:50px;
+  margin-left:50px;
 }
 .picture7{
   background:url('../img/bracelets2.jpg') no-repeat center center;
@@ -173,18 +206,22 @@ hr {
     margin-top: 60vh;
   }
 .textnavigation3{
+        text-align:center;
+        font-size: 40px;
+        letter-spacing: 15px;
         width: 20vw;
         height: 10vh;
-        margin-left: 40vw;
+        margin-left: 35vw;
         margin-top: 5vw;
-        background-color: grey;
 }
 .picture9{
+  background:url('../img/necklace1.jpg') no-repeat center center;
+  background-size:cover;
   width: 40vw;
   height: 55vh;
   float: left;
   background-color: grey;
-  margin-left: 5vw;
+  margin-left: 7.5vw;
   margin-top: 5vw;
 }
 .graybox4{
@@ -192,17 +229,33 @@ hr {
   height: 55vh;
   background-color: rgb(198, 197, 196);
   margin-top: 5vw;
-  margin-left: 51vw;
+  margin-left: 53vw;
+}
+.text3{
+  line-height: 1.6;
+  text-indent: 10%;
+  font-family: starling, serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 25px;
+  height: 100%;
+  padding-top: 30px;
+  margin-right:50px;
+  margin-left:50px;
 }
 .picture10{
+  background:url('../img/necklace2.jpg') no-repeat center center;
+  background-size:cover;
   width: 18vw;
   height: 35vh;
   float: left;
   background-color: grey;
-  margin-left: 5vw;
+  margin-left: 7.5vw;
   margin-top: 4vw;
 }
 .picture11{
+  background:url('../img/necklace3.jpg') no-repeat center center;
+  background-size:cover;
   width: 18vw;
   height: 35vh;
   float: left;
@@ -211,6 +264,8 @@ hr {
   margin-top: 4vw;
 }
 .picture12{
+  background:url('../img/necklace4.jpg') no-repeat center center;
+  background-size:cover;
   width: 18vw;
   height: 35vh;
   float: left;
@@ -219,6 +274,8 @@ hr {
   margin-top: 4vw;
 }
 .picture13{
+  background:url('../img/necklace1.jpg') no-repeat center center;
+  background-size:cover;
   width: 18vw;
   height: 35vh;
   float: left;
@@ -235,18 +292,34 @@ hr {
     margin-top: 50vh;
   }
   .textnavigation4{
+        text-align:center;
+        font-size: 40px;
+        letter-spacing: 15px;
           width: 20vw;
           height: 10vh;
           margin-left: 40vw;
           margin-top: 5vw;
-          background-color: grey;
+  }
+  .text4{
+    float: center;
+    text-align: center;
+    line-height: 1.6;
+    font-family: starling, serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 28px;
+    height: 100%;
+    padding-top: 40px;
+    margin-left: 25px;
   }
 .picture14{
+    background:url('../img/ourcompany.jpg') no-repeat center center;
+    background-size:cover;
     width: 55vw;
     height: 50vh;
     float: left;
     background-color: grey;
-    margin-left: 4vw;
+    margin-left: 7.5vw;
     margin-top: 4vw;
   }
   .graybox5{
@@ -254,22 +327,80 @@ hr {
     height: 50vh;
     background-color: rgb(198, 197, 196);
     margin-top: 4vw;
-    margin-left: 64vw;
+    margin-left: 67vw;
   }
+  .hr5{
+      display: block;
+      height: 1px;
+      border: 0;
+      border-top: 10px solid rgb(198, 197, 196);
+      width: 100%;
+      margin-top: 10vh;
+    }
   .textnavigation5{
+          text-align:center;
+          font-size: 40px;
+          letter-spacing: 15px;
           width: 20vw;
           height: 10vh;
           margin-left: 40vw;
           margin-top: 8vw;
-          background-color: grey;
+  }
+  .text5{
+    line-height: 1.6;
+    text-indent: 10%;
+    font-family: starling, serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 25px;
+    height: 100%;
+    padding-top: 30px;
+    margin-right:50px;
+    margin-left:50px;
   }
   .graybox6{
     width: 85vw;
-    height: 40vh;
+    height: 35vh;
     background-color: rgb(198, 197, 196);
-    margin-top: 4vw;
-    margin-left: 5vw;
+    margin-top: 2vw;
+    margin-left: 7.5vw;
+    margin-bottom: 6vw;
   }
+@media only screen and (max-width: 1220px){
+  .picture3{
+    display: none;
+  }
+  .picture4{
+    display: none;
+  }
+  .picture5{
+    display: none;
+  }
+  .text1{
+      font-size: 22px;
+      padding-top: 25px;
+      margin-right:50px;
+      margin-left:50px;
+    }
+  .text3{
+      font-size: 20px;
+      padding-top: 25px;
+      margin-right:50px;
+      margin-left:50px;
+    }
+    .title1{
+      font-size: 34px;
+      margin-left: 55vw;
+      margin-top: 2vw;
+    }
+    .text{
+      width: 85vw;
+      height: 7vh;
+      padding-top: 5px;
+      margin-left: 6vw;
+      font-size: 20px;
+    }
+}
 @media only screen and (max-width: 1024px){
   .text{
     width: 85vw;
@@ -277,9 +408,47 @@ hr {
     margin-left: 6vw;
     font-size: 20px;
   }
+  .title1{
+    font-size: 25px;
+    margin-left: 55vw;
+    margin-top: 2vw;
+  }
+  .text1{
+      font-size: 22px;
+      padding-top: 25px;
+      margin-right:50px;
+      margin-left:50px;
+    }
+  .text2{
+    font-size: 18px;
+    padding-top: 25px;
+    margin-right:48px;
+    margin-left:52px;
+  }
+  .text3{
+    font-size: 18px;
+    padding-top: 25px;
+    margin-right:50px;
+    margin-left:50px;
+  }
+  .text4{
+    font-size: 26px;
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+  .picture3{
+    display: none;
+  }
+  .picture4{
+    display: none;
+  }
+  .picture5{
+    display: none;
+  }
+  }
 @media only screen and (max-width: 768px){
   .text{
-    font-size: 15px;
+    font-size: 12px;
   }
 .picture{
     width: 37vw;
@@ -296,11 +465,9 @@ hr {
     padding: 4vh;
   }
   .title1{
-    width: 24vw;
-    height: 28vh;
-    margin-left: 60vw;
+    font-size: 24px;
+    margin-left: 50vw;
     margin-top: 2vw;
-    background-color: grey;
   }
   .picture2{
     width: 50vw;
@@ -310,76 +477,82 @@ hr {
     margin-left: 5vw;
     margin-top: 7vw;
   }
+  .textnavigation2{
+        margin-left: 23vw;
+        margin-top: 8vw;
+    }
+  .text1{
+      font-size: 15px;
+      padding-top: 2px;
+      margin-right:40px;
+      margin-left:40px;
+    }
+    .picture3{
+      display: none;
+    }
+    .picture4{
+      display: none;
+    }
+    .picture5{
+      display: none;
+    }
   .graybox2{
     width: 30vw;
     height: 35vh;
-    background-color: rgb(198, 197, 196);
     margin-top: 7vw;
-    margin-left: 60vw;
+    margin-left: 7vw;
   }
-  .picture3{
-    width: 25vw;
-    height: 26vh;
-  }
-  .picture4{
-    width: 25vw;
-    height: 26vh;
-  }
-  .picture5{
-    width: 25vw;
-    height: 26vh;
-
-  }
+  .hr2{
+      margin-top: 60vh;
+    }
   .graybox3{
-    width: 30vw;
-    height: 37vh;
-
+    width: 80vw;
+    height: 30vh;
+    margin-top: 57vw;
+    margin-left: 7.5vw;
   }
   .picture6{
         width: 50vw;
         height: 37vh;
-
+        margin-left: 24vw;
   }
   .picture7{
-    width: 50vw;
-    height: 25vh;
-
+    display: none;
   }
   .picture8{
-    width: 30vw;
-    height: 25vh;
-
+    display: none;
   }
   .hr3{
-      margin-top: 40vh;
+      margin-top: 10vh;
     }
+    .textnavigation3{
+          margin-left: 23vw;
+      }
     .graybox4{
-      width: 40vw;
-      height: 30vh;
+      width: 80vw;
+      height: 35vh;
       background-color: rgb(198, 197, 196);
-      margin-top: 5vw;
-      margin-left: 51vw;
+      margin-top: 47vw;
+      margin-left: 7.5vw;
     }
     .picture9{
       height: 30vh;
+      margin-left: 30vw;
     }
     .picture10{
-      width: 25vw;
-      height: 30vh;
+    display: none;
     }
     .picture11{
-      width: 25vw;
-      height: 30vh;
+      display: none;
     }
     .picture12{
-      width: 25vw;
-      height: 30vh;
+      display: none;
     }
     .picture13{
     display: none;
     }
     .hr4{
-        margin-top: 40vh;
+        margin-top: 10vh;
       }
     .picture14{
         width: 55vw;
@@ -389,12 +562,20 @@ hr {
         width: 26vw;
         height: 30vh;
       }
+      .textnavigation4{
+            margin-left: 28vw;
+        }
+        .textnavigation5{
+              margin-left: 36vw;
+          }
+      .text4{
+        font-size: 20px;
+        padding-top: 10px;
+      }
       .graybox6{
         width: 85vw;
         height: 40vh;
-        background-color: rgb(198, 197, 196);
         margin-top: 4vw;
-        margin-left: 5vw;
       }
 }
 @media only screen and (max-width: 520px){
@@ -402,42 +583,64 @@ hr {
       height:20vh;
     }
     .title1{
-      width: 24vw;
-      height: 18vh;
-      margin-left: 55vw;
+      font-size: 18px;
+      margin-left: 40vw;
+      margin-top: 0vw;
+    }
+    .text{
+      width: 85vw;
+      height: 7vh;
+      padding-top: 18px;
+      margin-left: 6vw;
+      font-size: 10px;
     }
     .graybox{
       width: 100%;
       height: 30vh;
     }
+    .textnavigation{
+          margin-left: 32vw;
+          margin-top: 8vw;
+          font-size: 25px;
+      }
+      .text1{
+          font-size: 12px;
+          padding-top: 0px;
+          margin-right:10px;
+          margin-left:10px;
+        }
+      .picture3{
+        display: none;
+      }
+      .picture4{
+        display: none;
+      }
+      .picture5{
+        display: none;
+      }
     .picture2{
-      width: 50vw;
-      height: 25vh;
+      width: 45vw;
+      height: 20vh;
       float: left;
-      background-color: grey;
-      margin-left: 5vw;
+      margin-left: 7.5vw;
       margin-top: 7vw;
     }
     .graybox2{
-      width: 30vw;
-      height: 25vh;
+      width: 32vw;
+      height: 20vh;
       margin-top: 7vw;
-      margin-left: 60vw;
+      margin-left: 4vw;
     }
-    .picture3{
-      width: 25vw;
-      height: 14vh;
-    }
-    .picture4{
-      width: 25vw;
-      height: 14vh;
-    }
-    .picture5{
-      width: 25vw;
-      height: 14vh;
-    }
+    .hr2{
+        margin-top: 35vh;
+      }
+      .textnavigation2{
+            margin-left: 18vw;
+            margin-top: 8vw;
+            font-size: 25px;
+        }
     .graybox3{
-      width: 30vw;
+      width: 80vw;
       height: 27vh;
     }
     .picture6{
@@ -445,51 +648,80 @@ hr {
           height: 27vh;
     }
     .picture7{
-      width: 50vw;
-      height: 15vh;
+      display: none;
     }
     .picture8{
-      width: 30vw;
-      height: 15vh;
+      display: none;
     }
+  .textnavigation3{
+          margin-left: 18vw;
+          margin-top: 8vw;
+          font-size: 25px;
+      }
     .graybox4{
       width: 40vw;
-      height: 20vh;
+      height: 25vh;
       background-color: rgb(198, 197, 196);
-      margin-top: 5vw;
+      margin-top: 0vw;
       margin-left: 51vw;
     }
     .picture9{
-      height: 20vh;
+      height: 25vh;
+      width: 40vw;
+      margin-top: 0vw;
+      margin-left: 7.5vw;
     }
+    .text3{
+        font-size: 12px;
+        padding-top: 4px;
+        margin-right:10px;
+        margin-left:10px;
+      }
     .picture10{
-      width: 25vw;
-      height: 20vh;
+      display: none;
     }
     .picture11{
-      width: 25vw;
-      height: 20vh;
+      display: none;
     }
     .picture12{
-      width: 25vw;
-      height: 20vh;
+      display: none;
     }
     .picture13{
     display: none;
     }
+  .textnavigation4{
+            margin-left: 25vw;
+            margin-top: 8vw;
+            font-size: 25px;
+        }
     .picture14{
         width: 55vw;
+        margin-top: 0vw;
+        margin-left: 20vw;
         height: 20vh;
       }
       .graybox5{
-        width: 26vw;
+        width: 80vw;
         height: 20vh;
+        margin-left: 7.5vw;
+        margin-top: 40vw;
       }
+.textnavigation5{
+              margin-left: 34vw;
+              margin-top: 8vw;
+              font-size: 25px;
+            }
       .graybox6{
         width: 85vw;
-        height: 30vh;
+        height: 25vh;
         background-color: rgb(198, 197, 196);
         margin-top: 4vw;
         margin-left: 5vw;
       }
+      .text5{
+          font-size: 15px;
+          padding-top: 4px;
+          margin-right:20px;
+          margin-left:20px;
+        }
 }
