@@ -1,4 +1,4 @@
-
+$('html,body').css('cursor','crosshair');
 $(document).ready(function(){
    console.log('THE DOCUMENT IS WORKING');
 
@@ -6,7 +6,7 @@ $(document).ready(function(){
      $('.title').toggleClass('changecolor');
   });
   $('.title').hover(function(){
-    $('.title').toggleClass('changecolor');
+    $('.letter').toggleClass('changecolor');
  });
   $('.title').click(function(){
     $('.letter').toggleClass('textcolor');
