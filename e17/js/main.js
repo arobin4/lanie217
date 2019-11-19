@@ -5,6 +5,9 @@ $(document).ready(function(){
    $('.title').click(function(){
      $('.title').toggleClass('changecolor');
   });
+  $('.title').hover(function(){
+    $('.title').toggleClass('changecolor');
+ });
   $('.title').click(function(){
     $('.letter').toggleClass('textcolor');
  });
