@@ -1,5 +1,5 @@
 body{
-  background-color: lightblue;
+  background-color: rgb(176,224,229);
   overflow-x: hidden;
 }
 #container{
@@ -7,7 +7,9 @@ body{
   height: 100%;
 }
 img{
-  max-width:100%;
+  width: 100%;
+  height: auto;
+  margin-top: 0px;
 }
 .cf:before,
 .cf:after{
@@ -20,9 +22,12 @@ img{
 *{
   box-sizing: border-box;
 }
-.picture{
-  background:url('../img/christmas1.png') no-repeat center center;
-  background-size:cover;
-  width: 100%;
-  height: auto;
+.outline{
+    margin-top: 500px;
+    width         : 0;
+    height        : 0;
+    border-left   : 100px solid transparent;
+    border-right  : 100px solid transparent;
+    border-bottom : 100px solid blue;
+  background-color: blue;
 }
