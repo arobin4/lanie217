@@ -5,5 +5,7 @@ $(document).ready(function(){
    $('.outline').click(function(){
      $('.outline').toggleClass('picture2');
   });
-
+  $('.outline').click(function(){
+    $('.outline').toggleClass('picture3');
+ });
 });

@@ -41,7 +41,13 @@ body {
   background-color: transparent;
 }
 .picture2{
-  background-image: url('../img/christmas1.jpg');
+  background-image: url('../img/christmas2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.picture3{
+  background-image: url('../img/christmas3.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
