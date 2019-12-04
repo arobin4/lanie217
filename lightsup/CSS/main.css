@@ -24,7 +24,7 @@ body {
 }
 .outline{
   padding-top: 10px;
-    margin-top: 300px;
+    margin-top: 260px;
     margin-left: 400px;
     width         : 0px;
     height        : 0px;
@@ -32,23 +32,35 @@ body {
     border-right  : 350px solid transparent;
     border-bottom : 550px solid transparent;
     background-attachment: fixed;
+    opacity: 0;
 }
 .outline2{
   margin-bottom: 200px;
   margin-left: -150px;
   width: 150px;
-  height: 400px;
+  height: 500px;
   background-color: transparent;
 }
+.blink {
+  animation: blinker .2s linear infinite;
+}
+@keyframes blinker {
+  49% {opacity: 0;}
+  50% {opacity: 1;}
+  99% {opacity: 1;}
+}
+
 .picture2{
   background-image: url('../img/christmas2.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  position: fixed;
 }
 .picture3{
   background-image: url('../img/christmas3.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+    position: fixed;
 }
