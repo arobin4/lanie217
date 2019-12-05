@@ -11,11 +11,4 @@ $(document).ready(function(){
     $('.outline').toggleClass('blink');
  });
 
- $('audio#pop')[0].play()
- $('audio#pop')[0].pause()
- $('audio#pop')[0].currentTime = 0
-
- $('.outline').click(function(){
-   $('.outline').toggleClass('pop');
-});
 });
